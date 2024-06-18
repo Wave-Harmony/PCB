@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=12V Pin=C3-2
+Removed Pin From Net: NetName=-12V Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=12V Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=8.3V Pin=C8-2
+Removed Member From Class: ClassName=Sheet1(Power supply) Member=C3
+Removed Member From Class: ClassName=Sheet1(Power supply) Member=C4
+Removed Member From Class: ClassName=Sheet1(Power supply) Member=C7
+Removed Member From Class: ClassName=Sheet1(Power supply) Member=C8
+Added Component: Designator=100nF(1)(CAPRB500W50L550T350H600)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FG26X7R2E104KNT06/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FG26X7R2E104KNT06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/FG26X7R2E104KNT06/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FG26X7R2E104KNT06/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=100nF(2)(CAPRB500W50L550T350H600)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FG26X7R2E104KNT06/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FG26X7R2E104KNT06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/FG26X7R2E104KNT06/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FG26X7R2E104KNT06/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=100nF(3)(CAPRB500W50L550T350H600)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FG26X7R2E104KNT06/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FG26X7R2E104KNT06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/FG26X7R2E104KNT06/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FG26X7R2E104KNT06/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=100nF(4)(CAPRB500W50L550T350H600)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FG26X7R2E104KNT06/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FG26X7R2E104KNT06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/FG26X7R2E104KNT06/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FG26X7R2E104KNT06/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=100nF(1)-1
+Added Pin To Net: NetName=12V Pin=100nF(1)-2
+Added Pin To Net: NetName=-12V Pin=100nF(2)-1
+Added Pin To Net: NetName=GND Pin=100nF(2)-2
+Added Pin To Net: NetName=GND Pin=100nF(3)-1
+Added Pin To Net: NetName=12V Pin=100nF(3)-2
+Added Pin To Net: NetName=GND Pin=100nF(4)-1
+Added Pin To Net: NetName=8.3V Pin=100nF(4)-2
+Added Member To Class: ClassName=Sheet1(Power supply) Member=Component 100nF(1) FG26X7R2E104KNT06
+Added Member To Class: ClassName=Sheet1(Power supply) Member=Component 100nF(2) FG26X7R2E104KNT06
+Added Member To Class: ClassName=Sheet1(Power supply) Member=Component 100nF(3) FG26X7R2E104KNT06
+Added Member To Class: ClassName=Sheet1(Power supply) Member=Component 100nF(4) FG26X7R2E104KNT06

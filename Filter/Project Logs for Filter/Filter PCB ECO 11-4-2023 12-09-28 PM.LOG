@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=Out1 Pin=IC2-5
+Change Component Designator: OldDesignator=-12V 12V NewDesignator=12V,-12V
+Change Component Designator: OldDesignator= NewDesignator=10nF(1)
+Change Component Designator: OldDesignator= NewDesignator=10nF(2)
+Change Component Designator: OldDesignator= NewDesignator=10nF(4)
+Change Component Designator: OldDesignator=10nF NewDesignator=10nF(3)
+Added Pin To Net: NetName=Out2 Pin=IC2-5
+Added Member To Class: ClassName=Sheet1(Filter) Member=Component 10nF(1) FG26X7R2E104KNT06
+Added Member To Class: ClassName=Sheet1(Filter) Member=Component 10nF(2) FG26X7R2E104KNT06
+Added Member To Class: ClassName=Sheet1(Filter) Member=Component 10nF(3) FG26X7R2E104KNT06
+Added Member To Class: ClassName=Sheet1(Filter) Member=Component 10nF(4) FG26X7R2E104KNT06
+Added Member To Class: ClassName=Sheet1(Filter) Member=Component IC1 LM3914N
+Added Member To Class: ClassName=Sheet1(Filter) Member=Component IC2 LM3914N

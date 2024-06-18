@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Filter|SchDesignator=Filter|FileName=Filter.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Filter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=LED driver-1|SchDesignator=LED driver-1|FileName=LED drivers.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=LED drivers.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

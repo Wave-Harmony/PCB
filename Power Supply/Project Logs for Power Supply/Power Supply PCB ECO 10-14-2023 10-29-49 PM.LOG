@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=B? NewDesignator=Bridge
+Add Pin To Net: Unknown Pin: Pin Bridge-1
+Add Pin To Net: Unknown Pin: Pin Bridge-2
+Add Pin To Net: Unknown Pin: Pin Bridge-4
+Added Pin To Net: NetName=NetBridge_3 Pin=C1-1
+Added Pin To Net: NetName=NetBridge_3 Pin=VR1-1
+Added Net: Name=NetBridge_3

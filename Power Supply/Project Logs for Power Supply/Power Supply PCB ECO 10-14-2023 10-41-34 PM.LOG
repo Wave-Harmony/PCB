@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=Sheet1(Power supply) Member=Bridge
+Added Component: Designator=B?(2W10)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2W10/MDD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "MDD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2W10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2W10/MDD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=B?--VDD
+Added Pin To Net: NetName=AC1 Pin=B?-AC1
+Added Pin To Net: NetName=AC2 Pin=B?-AC2
+Added Pin To Net: NetName=NetB?_+VCC Pin=B?-+VCC
+Added Pin To Net: NetName=NetB?_+VCC Pin=C1-1
+Added Pin To Net: NetName=NetB?_+VCC Pin=VR1-1
+Added Net: Name=NetB?_+VCC
+Added Member To Class: ClassName=Sheet1(Power supply) Member=Component B? 2W10

@@ -1,0 +1,68 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC1608X94X35NL15T15
+Change Component Footprint: Designator=C4 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC1608X94X35NL15T15
+Change Component Footprint: Designator=C7 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC1608X94X35NL15T15
+Change Component Footprint: Designator=C8 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC1608X94X35NL15T15
+Change Component Comment : Designator=C3 Old Comment=Capacitor 100nF +/-20% 25V 0402 New Comment=Capacitor 1 uF +/- 10% 16 V 0603
+Change Component Comment : Designator=C4 Old Comment=Capacitor 100nF +/-20% 25V 0402 New Comment=Capacitor 1 uF +/- 10% 16 V 0603
+Change Component Comment : Designator=C7 Old Comment=Capacitor 100nF +/-20% 25V 0402 New Comment=Capacitor 1 uF +/- 10% 16 V 0603
+Change Component Comment : Designator=C8 Old Comment=Capacitor 100nF +/-20% 25V 0402 New Comment=Capacitor 1 uF +/- 10% 16 V 0603
+Change Managed Component Library Link : Designator=C3 Old VaultGUID=D7A235FC-D8D8-4F5C-B448-38A0973D9972 New VaultGUID=D7A235FC-D8D8-4F5C-B448-38A0973D9972 Old ItemGUID=09C38826-F26A-4730-94A0-B6AEBF4C5906 New ItemGUID=0410D741-BDBC-45C1-8AAE-7DFD68FD601D Old RevisionGUID=F358C5DD-12C9-4604-B65A-CD074106C3B8 New RevisionGUID=B754018A-3787-4EFE-8477-869BF88C50F4
+Change Managed Component Library Link : Designator=C4 Old VaultGUID=D7A235FC-D8D8-4F5C-B448-38A0973D9972 New VaultGUID=D7A235FC-D8D8-4F5C-B448-38A0973D9972 Old ItemGUID=09C38826-F26A-4730-94A0-B6AEBF4C5906 New ItemGUID=0410D741-BDBC-45C1-8AAE-7DFD68FD601D Old RevisionGUID=F358C5DD-12C9-4604-B65A-CD074106C3B8 New RevisionGUID=B754018A-3787-4EFE-8477-869BF88C50F4
+Change Managed Component Library Link : Designator=C7 Old VaultGUID=D7A235FC-D8D8-4F5C-B448-38A0973D9972 New VaultGUID=D7A235FC-D8D8-4F5C-B448-38A0973D9972 Old ItemGUID=09C38826-F26A-4730-94A0-B6AEBF4C5906 New ItemGUID=0410D741-BDBC-45C1-8AAE-7DFD68FD601D Old RevisionGUID=F358C5DD-12C9-4604-B65A-CD074106C3B8 New RevisionGUID=B754018A-3787-4EFE-8477-869BF88C50F4
+Change Managed Component Library Link : Designator=C8 Old VaultGUID=D7A235FC-D8D8-4F5C-B448-38A0973D9972 New VaultGUID=D7A235FC-D8D8-4F5C-B448-38A0973D9972 Old ItemGUID=09C38826-F26A-4730-94A0-B6AEBF4C5906 New ItemGUID=0410D741-BDBC-45C1-8AAE-7DFD68FD601D Old RevisionGUID=F358C5DD-12C9-4604-B65A-CD074106C3B8 New RevisionGUID=B754018A-3787-4EFE-8477-869BF88C50F4
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPC0402(1005)60_L"; UniqueID = "\KVJMTREH" ("\KVJMTREH")
+Change component parameters (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAPC0402(1005)60_L"; UniqueID = "\BHBQAHSL" ("\BHBQAHSL")
+Change component parameters (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAPC0402(1005)60_L"; UniqueID = "\OPFYNRAJ" ("\OPFYNRAJ")
+Change component parameters (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAPC0402(1005)60_L"; UniqueID = "\HASOMBHW" ("\HASOMBHW")
+Change component parameters (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin B?-1
+Add Pin To Net: Unknown Pin: Pin B?-2
+Add Pin To Net: Unknown Pin: Pin B?-3
+Add Pin To Net: Unknown Pin: Pin B?-4
